@@ -1,0 +1,9 @@
+*pyc
+*bat
+*pyc
+*log
+data/
+model/
+temp/
+
+
